@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_cdltd_loaner_req.test</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>test</name>
+        <script/>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-27 06:22:40</sys_created_on>
+        <sys_id>d35a5936834212107f44d9aeddda1e2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">199adb92830212107f44d9aeddda1e53</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Loaner Request">199adb92830212107f44d9aeddda1e53</sys_scope>
+        <sys_update_name>sys_script_include_d35a5936834212107f44d9aeddda1e2a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-27 06:22:40</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">199adb92830212107f44d9aeddda1e53</application>
+        <file_path/>
+        <instance_id>b142f416c3c296d0d7299dcd2b013114</instance_id>
+        <instance_name>nowlearning-nlinst02256130-0001</instance_name>
+        <name>sys_script_include_d35a5936834212107f44d9aeddda1e2a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include"><sys_script_include action="INSERT_OR_UPDATE"><access>package_private</access><active>true</active><api_name>x_cdltd_loaner_req.test</api_name><caller_access/><client_callable>false</client_callable><description/><name>test</name><script/><sys_class_name>sys_script_include</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-27 06:22:40</sys_created_on><sys_id>d35a5936834212107f44d9aeddda1e2a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">199adb92830212107f44d9aeddda1e53</sys_package><sys_policy>read</sys_policy><sys_scope display_value="Loaner Request">199adb92830212107f44d9aeddda1e53</sys_scope><sys_update_name>sys_script_include_d35a5936834212107f44d9aeddda1e2a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-27 06:22:40</sys_updated_on></sys_script_include></record_update>]]></payload>
+        <payload_hash>-1747980725</payload_hash>
+        <record_name>test</record_name>
+        <reverted_from/>
+        <source>e7f951f2834212107f44d9aeddda1e12</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-27 06:22:40</sys_created_on>
+        <sys_id>a56a5936834212107f44d9aeddda1eda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1936c4940d50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-27 06:22:40</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>e96a593600421210265c5f8fc7b9a9d9</update_guid>
+        <update_guid_history>e96a593600421210265c5f8fc7b9a9d9:-1747980725</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-27 06:24:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>a2886d9faa5a4b82b6a96cfd0e8f9164</sys_id>
+        <sys_metadata>d35a5936834212107f44d9aeddda1e2a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">199adb92830212107f44d9aeddda1e53</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Loaner Request">199adb92830212107f44d9aeddda1e53</sys_scope>
+        <sys_scope_delete display_value="">52636578c11c43f083b513a86ec8a640</sys_scope_delete>
+        <sys_update_name>sys_script_include_d35a5936834212107f44d9aeddda1e2a</sys_update_name>
+        <sys_update_version display_value="sys_script_include_d35a5936834212107f44d9aeddda1e2a">a56a5936834212107f44d9aeddda1eda</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-27 06:24:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
